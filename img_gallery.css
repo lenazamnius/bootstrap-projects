@@ -1,0 +1,49 @@
+body {
+  padding-top: 70px;
+}
+
+.image {
+  width: 100%;
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+}
+
+.image1 {
+  background-image: url(https://source.unsplash.com/bEnSMaiHeX0);
+}
+
+.image2 {
+  background-image: url(https://source.unsplash.com/mA8umD6wklI);
+}
+
+.image3 {
+  background-image: url(https://source.unsplash.com/XQhnWsv7SUk);
+}
+
+.image4 {
+  background-image: url(https://source.unsplash.com/qmRAJHurxlw);
+}
+
+.image5 {
+  background-image: url(https://source.unsplash.com/VGCYoDQWQ70);
+}
+
+.image6 {
+  background-image: url(https://source.unsplash.com/zNsSGYXaeP8);
+}
+
+.image7 {
+  background-image: url(https://source.unsplash.com/djXLqISm5XU);
+}
+
+.image8 {
+  background-image: url(https://source.unsplash.com/ZGXhE1L7VL8);
+}
+
+.image9 {
+  background-image: url(https://source.unsplash.com/g733A40xl3Q);
+}
+
+
+

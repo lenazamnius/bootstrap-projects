@@ -1,5 +1,42 @@
+html {
+  height: 100%;
+}
+
 body {
-  margin: 0;
+  padding-bottom: 70px;
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+  background-image: url(https://source.unsplash.com/AsahNlC0VhQ);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 4em;
+}
+
+hr {
+  width: 370px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.content {
+  padding-top: 13%;
+  text-align: center;
+  text-shadow: 0px 4px 3px rgba(71,0,3,0.4),
+               0px 8px 13px rgba(0,0,0,0.2),
+               0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.navbar {
+  border-radius: 0px;
+}
+
+.navbar-header>a {
+  font-weight: 700;
 }
 
 
